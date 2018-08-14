@@ -1,0 +1,17 @@
+{
+    "name": "slim/slim-skeleton-js",
+    "description": "A Slim Framework skeleton application for rapid development and rich feature",
+    "keywords": ["microframework", "rest", "router", "psr7"],
+    "homepage": "http://github.com/slimphp/Slim-Skeleton",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Lockhart",
+            "email": "info@joshlockhart.com",
+            "homepage": "http://www.joshlockhart.com/"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
